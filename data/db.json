@@ -1,0 +1,52 @@
+{
+  "transfers": [
+    {
+      "id": "1",
+      "value": 35,
+      "target": "1212-1",
+      "createdAt": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "value": 40,
+      "target": "1213-1",
+      "createdAt": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "value": 12.5,
+      "target": "1214-1",
+      "createdAt": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "value": 123,
+      "target": 123,
+      "createdAt": "2022-08-19T16:52:26.462Z",
+      "id": "eAm3gCd"
+    },
+    {
+      "value": 12123,
+      "target": 123213,
+      "createdAt": "2022-08-19T16:52:57.690Z",
+      "id": "djLTCCV"
+    },
+    {
+      "value": 123123,
+      "target": 123123,
+      "createdAt": "2022-08-19T16:53:20.932Z",
+      "id": "b8Uxe9e"
+    },
+    {
+      "value": 40,
+      "target": 1010101,
+      "createdAt": "2022-08-19T19:31:43.022Z",
+      "id": "oQgz0Y9"
+    },
+    {
+      "value": 30,
+      "target": 303030,
+      "createdAt": "2022-08-19T19:34:03.541Z",
+      "id": "243pUL3"
+    }
+  ]
+}
